@@ -1,0 +1,201 @@
+id,first_name,last_name,age,email,department,salary,hire_date,city,employment_status
+1,Henry,Johnson,36,henry.johnson@company.com,Sales,66000,2016-07-25,San Francisco,Terminated
+2,Frank,Clark,23,frank.clark@company.com,Legal,92000,2016-01-19,Chicago,Active
+3,George,Lewis,34,george.lewis@company.com,Engineering,122000,2023-01-11,Miami,On Leave
+4,Olivia,Martin,22,olivia.martin@company.com,Data,103000,2023-07-06,Austin,On Leave
+5,Victor,Moore,43,victor.moore@company.com,HR,57000,2016-02-23,San Francisco,On Leave
+6,Grace,Thomas,24,grace.thomas@company.com,Operations,72000,2023-03-08,Atlanta,Terminated
+7,Henry,Adams,57,henry.adams@company.com,Legal,95000,2018-04-15,Portland,Active
+8,Kevin,Miller,36,kevin.miller@company.com,Marketing,58000,2023-09-02,Seattle,Active
+9,Olivia,Green,39,olivia.green@company.com,Marketing,80000,2020-02-01,Boston,Active
+10,Xander,Thomas,39,xander.thomas@company.com,Finance,114000,2022-11-14,San Francisco,Terminated
+11,Karen,Robinson,51,karen.robinson@company.com,Finance,81000,2019-04-04,Seattle,Terminated
+12,Olivia,Hall,36,olivia.hall@company.com,Operations,59000,2024-03-20,New York,Active
+13,Zoe,Moore,58,zoe.moore@company.com,Marketing,69000,2024-10-29,Boston,Active
+14,Fiona,Jackson,38,fiona.jackson@company.com,Product,89000,2016-07-25,Chicago,Terminated
+15,Ivan,Moore,47,ivan.moore@company.com,Data,113000,2019-01-22,Chicago,Active
+16,George,Garcia,29,george.garcia@company.com,Marketing,58000,2016-09-18,Austin,On Leave
+17,Mike,White,51,mike.white@company.com,Legal,115000,2020-12-07,Seattle,Terminated
+18,Alice,Hall,39,alice.hall@company.com,Marketing,90000,2023-08-15,Boston,Active
+19,Sam,Harris,22,sam.harris@company.com,HR,65000,2023-02-05,Seattle,Terminated
+20,Liam,Martinez,54,liam.martinez@company.com,Marketing,75000,2021-10-30,Chicago,Active
+21,Xander,King,55,xander.king@company.com,HR,68000,2015-01-03,Portland,Active
+22,Fiona,Johnson,41,fiona.johnson@company.com,Marketing,79000,2017-09-07,New York,Active
+23,Kevin,White,26,kevin.white@company.com,Marketing,87000,2023-07-13,Miami,Active
+24,Isla,Hall,32,isla.hall@company.com,Product,116000,2017-12-21,Miami,Terminated
+25,Beth,Miller,41,beth.miller@company.com,Design,78000,2019-06-23,Boston,On Leave
+26,Hannah,Martin,36,hannah.martin@company.com,Marketing,71000,2015-09-20,Boston,Active
+27,Laura,Robinson,36,laura.robinson@company.com,Finance,109000,2015-01-30,San Francisco,Active
+28,Olivia,White,43,olivia.white@company.com,Engineering,141000,2015-10-18,Miami,Active
+29,Rachel,Hall,56,rachel.hall@company.com,Product,94000,2016-06-25,Portland,Terminated
+30,Ethan,Wilson,34,ethan.wilson@company.com,Product,107000,2016-01-22,San Francisco,On Leave
+31,Wendy,Harris,25,wendy.harris@company.com,Legal,121000,2022-07-21,San Francisco,Active
+32,Zoe,Young,37,zoe.young@company.com,Operations,62000,2017-02-23,Chicago,Terminated
+33,Chris,Brown,39,chris.brown@company.com,Legal,102000,2020-03-09,Chicago,Active
+34,Chris,Wright,25,chris.wright@company.com,Design,71000,2022-04-25,Miami,Active
+35,Frank,Adams,48,frank.adams@company.com,Finance,81000,2020-06-12,Atlanta,Active
+36,Zoe,Baker,46,zoe.baker@company.com,Engineering,96000,2015-01-09,Denver,Active
+37,Diana,Taylor,57,diana.taylor@company.com,Legal,136000,2022-06-04,Atlanta,Active
+38,Mia,Taylor,56,mia.taylor@company.com,Finance,74000,2015-09-07,Boston,Active
+39,David,Clark,55,david.clark@company.com,Product,113000,2016-10-06,New York,Terminated
+40,Frank,Green,26,frank.green@company.com,HR,52000,2022-07-28,Chicago,On Leave
+41,Henry,Baker,24,henry.baker@company.com,Data,101000,2021-12-11,San Francisco,On Leave
+42,Laura,Clark,38,laura.clark@company.com,Design,86000,2017-04-16,Boston,Active
+43,Quinn,Jackson,41,quinn.jackson@company.com,HR,72000,2020-02-16,Boston,Active
+44,Alice,Martin,28,alice.martin@company.com,Data,122000,2015-10-28,Miami,Active
+45,George,Moore,26,george.moore@company.com,HR,61000,2024-11-10,Chicago,Active
+46,Sam,Davis,41,sam.davis@company.com,Product,116000,2021-11-10,Miami,Active
+47,Julia,Taylor,38,julia.taylor@company.com,Marketing,64000,2016-04-17,San Francisco,Terminated
+48,Jack,Moore,35,jack.moore@company.com,Sales,90000,2023-01-18,Boston,Active
+49,Quinn,Martinez,25,quinn.martinez@company.com,Product,96000,2016-01-14,Denver,Active
+50,Carol,Johnson,38,carol.johnson@company.com,Operations,64000,2016-10-23,Atlanta,Terminated
+51,Beth,Robinson,26,beth.robinson@company.com,Engineering,92000,2024-11-26,Austin,Terminated
+52,Carol,Scott,49,carol.scott@company.com,Operations,65000,2016-06-06,New York,Active
+53,Xander,Baker,44,xander.baker@company.com,Engineering,144000,2017-05-10,Chicago,Active
+54,Wendy,King,31,wendy.king@company.com,Design,92000,2017-08-27,Austin,Active
+55,Aaron,Johnson,43,aaron.johnson@company.com,HR,74000,2023-10-10,Denver,Active
+56,Rachel,Davis,24,rachel.davis@company.com,Marketing,80000,2024-08-17,Atlanta,Active
+57,Mia,Scott,41,mia.scott@company.com,Product,103000,2024-03-14,Chicago,Active
+58,Bob,Hall,43,bob.hall@company.com,Finance,96000,2018-02-15,San Francisco,Active
+59,Wendy,Walker,56,wendy.walker@company.com,Design,91000,2018-09-18,New York,Active
+60,Quinn,Davis,24,quinn.davis@company.com,Data,102000,2016-03-20,Portland,On Leave
+61,Wendy,Young,54,wendy.young@company.com,Operations,84000,2016-04-18,Denver,Terminated
+62,Mia,Moore,49,mia.moore@company.com,Engineering,131000,2015-01-07,Miami,Terminated
+63,Mia,Thomas,43,mia.thomas@company.com,Legal,95000,2021-12-27,Boston,Active
+64,Tara,Martinez,48,tara.martinez@company.com,Sales,94000,2018-08-29,Denver,Active
+65,Julia,Brown,46,julia.brown@company.com,Finance,98000,2022-08-06,Austin,Terminated
+66,Kevin,Taylor,22,kevin.taylor@company.com,Legal,126000,2018-05-29,Seattle,Active
+67,Beth,Wright,42,beth.wright@company.com,Data,125000,2020-03-19,Atlanta,On Leave
+68,Noah,Martinez,32,noah.martinez@company.com,Product,128000,2022-05-22,San Francisco,Active
+69,George,Hall,27,george.hall@company.com,Data,107000,2024-03-06,Chicago,Active
+70,Olivia,Wright,23,olivia.wright@company.com,Finance,80000,2015-07-09,Chicago,On Leave
+71,Nina,Green,48,nina.green@company.com,Marketing,85000,2024-12-08,Portland,Active
+72,Yara,Garcia,31,yara.garcia@company.com,Legal,106000,2022-05-11,New York,Active
+73,Beth,Wilson,55,beth.wilson@company.com,HR,76000,2020-03-17,New York,Terminated
+74,Paul,Adams,30,paul.adams@company.com,Marketing,85000,2023-12-27,Atlanta,Terminated
+75,Julia,Lewis,54,julia.lewis@company.com,Operations,84000,2019-10-14,Miami,On Leave
+76,Karen,Young,38,karen.young@company.com,Product,109000,2023-06-07,Chicago,Active
+77,Hannah,Garcia,50,hannah.garcia@company.com,Finance,88000,2015-11-14,Seattle,Active
+78,Rachel,Anderson,30,rachel.anderson@company.com,Operations,60000,2016-09-09,Chicago,On Leave
+79,Jack,Allen,48,jack.allen@company.com,Finance,74000,2019-07-28,Boston,Terminated
+80,Diana,Harris,48,diana.harris@company.com,Engineering,99000,2019-05-15,Portland,Active
+81,Kevin,Jackson,44,kevin.jackson@company.com,Product,80000,2018-05-08,Denver,On Leave
+82,Ivan,Young,36,ivan.young@company.com,Design,105000,2020-06-22,Chicago,Active
+83,Beth,Garcia,43,beth.garcia@company.com,Engineering,110000,2022-07-02,Denver,Active
+84,Diana,Adams,56,diana.adams@company.com,HR,70000,2015-04-21,Denver,Terminated
+85,Kevin,Hall,49,kevin.hall@company.com,Engineering,91000,2016-07-09,Atlanta,Active
+86,David,Moore,35,david.moore@company.com,Legal,111000,2020-02-06,Boston,Active
+87,Yara,Moore,27,yara.moore@company.com,Legal,107000,2020-04-10,New York,Terminated
+88,David,Thomas,26,david.thomas@company.com,Finance,113000,2023-10-05,New York,Active
+89,Paul,Miller,31,paul.miller@company.com,Engineering,126000,2017-09-04,Austin,On Leave
+90,Henry,Clark,38,henry.clark@company.com,Finance,100000,2023-08-08,Boston,Active
+91,Mike,Lewis,41,mike.lewis@company.com,Marketing,66000,2016-03-18,Portland,Active
+92,Tara,Clark,34,tara.clark@company.com,Legal,116000,2015-11-08,Portland,Active
+93,Grace,Allen,29,grace.allen@company.com,Sales,106000,2023-12-06,Portland,Active
+94,Wendy,Robinson,45,wendy.robinson@company.com,Legal,133000,2015-10-10,Miami,Active
+95,Alice,Green,28,alice.green@company.com,Legal,122000,2019-11-11,Boston,On Leave
+96,Jack,Harris,55,jack.harris@company.com,HR,74000,2022-04-18,Seattle,Terminated
+97,Ivan,King,49,ivan.king@company.com,Product,110000,2024-04-05,Portland,Active
+98,Uma,Green,39,uma.green@company.com,Finance,76000,2024-11-20,Atlanta,Active
+99,Diana,Clark,46,diana.clark@company.com,Data,129000,2018-10-09,New York,On Leave
+100,Uma,Davis,44,uma.davis@company.com,Product,94000,2023-12-12,Seattle,Active
+101,Rachel,Baker,39,rachel.baker@company.com,Data,131000,2021-03-26,New York,Terminated
+102,Mia,White,48,mia.white@company.com,Finance,117000,2020-06-24,Miami,Active
+103,Ethan,Walker,23,ethan.walker@company.com,Product,109000,2016-01-17,Seattle,Active
+104,Zoe,Allen,45,zoe.allen@company.com,Finance,90000,2020-04-22,Miami,Terminated
+105,Julia,Anderson,39,julia.anderson@company.com,Operations,85000,2018-06-09,Seattle,Active
+106,Henry,Young,29,henry.young@company.com,Finance,91000,2023-05-01,Miami,Active
+107,Mia,Miller,55,mia.miller@company.com,Product,98000,2021-09-10,Seattle,Active
+108,Olivia,Thomas,22,olivia.thomas@company.com,HR,60000,2022-12-10,Miami,Active
+109,Rachel,Smith,40,rachel.smith@company.com,Engineering,121000,2022-10-27,Austin,On Leave
+110,Grace,Green,40,grace.green@company.com,Engineering,123000,2020-04-06,Atlanta,On Leave
+111,Victor,Davis,52,victor.davis@company.com,Engineering,102000,2016-04-12,San Francisco,On Leave
+112,Fiona,White,25,fiona.white@company.com,Data,126000,2016-09-13,Austin,Terminated
+113,Tara,White,57,tara.white@company.com,Finance,78000,2023-07-29,Denver,Terminated
+114,Mike,Wright,55,mike.wright@company.com,Data,100000,2019-04-08,Atlanta,On Leave
+115,Tara,Green,41,tara.green@company.com,Data,113000,2021-05-18,Portland,Active
+116,Nina,Young,35,nina.young@company.com,Marketing,69000,2017-12-19,San Francisco,Active
+117,Paul,Davis,32,paul.davis@company.com,Design,70000,2015-01-11,Denver,On Leave
+118,Mike,Garcia,36,mike.garcia@company.com,Sales,52000,2018-03-26,Seattle,On Leave
+119,Emma,Hall,34,emma.hall@company.com,Finance,87000,2019-10-08,San Francisco,Terminated
+120,Olivia,Walker,39,olivia.walker@company.com,HR,80000,2024-04-08,Austin,Active
+121,David,Davis,58,david.davis@company.com,Sales,89000,2018-03-28,Atlanta,Active
+122,Diana,Allen,47,diana.allen@company.com,Sales,96000,2018-01-20,Miami,Terminated
+123,Fiona,Martin,24,fiona.martin@company.com,Marketing,94000,2024-12-22,Denver,Active
+124,Mike,Moore,36,mike.moore@company.com,Engineering,91000,2022-07-24,Portland,Terminated
+125,Bob,King,24,bob.king@company.com,Sales,88000,2023-07-23,Austin,On Leave
+126,Hannah,Walker,33,hannah.walker@company.com,Product,98000,2021-07-25,Denver,On Leave
+127,Frank,Garcia,43,frank.garcia@company.com,Operations,82000,2018-08-08,San Francisco,Active
+128,Victor,Harris,47,victor.harris@company.com,Product,99000,2024-02-15,Miami,Active
+129,Diana,White,42,diana.white@company.com,Operations,72000,2016-04-19,Denver,Terminated
+130,Ivan,Martin,34,ivan.martin@company.com,Legal,94000,2020-10-24,Boston,Terminated
+131,Fiona,Walker,25,fiona.walker@company.com,Product,130000,2017-04-13,Seattle,Terminated
+132,Isla,Adams,53,isla.adams@company.com,Sales,79000,2016-05-12,New York,Terminated
+133,Paul,Allen,57,paul.allen@company.com,HR,60000,2015-02-26,Miami,On Leave
+134,Frank,Wilson,29,frank.wilson@company.com,Marketing,85000,2022-04-07,Austin,On Leave
+135,Sam,Martinez,52,sam.martinez@company.com,Sales,77000,2020-04-18,Chicago,On Leave
+136,Yara,Miller,30,yara.miller@company.com,Data,118000,2024-09-09,San Francisco,Active
+137,Aaron,Anderson,22,aaron.anderson@company.com,Design,83000,2018-03-04,Seattle,Terminated
+138,Laura,Hall,50,laura.hall@company.com,Product,90000,2021-01-15,Atlanta,Active
+139,Victor,Robinson,51,victor.robinson@company.com,Design,90000,2018-08-11,Chicago,Active
+140,Aaron,Smith,46,aaron.smith@company.com,Operations,86000,2019-05-01,Austin,On Leave
+141,Carol,Brown,43,carol.brown@company.com,Design,104000,2024-10-02,San Francisco,On Leave
+142,Grace,Martinez,31,grace.martinez@company.com,Product,81000,2019-08-07,Austin,Active
+143,Ethan,Wright,47,ethan.wright@company.com,Sales,72000,2022-04-15,San Francisco,Active
+144,Ivan,Jackson,56,ivan.jackson@company.com,Operations,87000,2015-05-28,Portland,Active
+145,Paul,Walker,27,paul.walker@company.com,Sales,65000,2019-11-13,San Francisco,Active
+146,Chris,Davis,23,chris.davis@company.com,Sales,109000,2015-07-08,Boston,Active
+147,Sam,Thomas,31,sam.thomas@company.com,Operations,83000,2017-09-27,Miami,On Leave
+148,Liam,Davis,46,liam.davis@company.com,HR,53000,2021-12-13,Chicago,On Leave
+149,Laura,Brown,38,laura.brown@company.com,Finance,100000,2020-02-26,Seattle,Active
+150,Diana,Baker,56,diana.baker@company.com,Sales,94000,2016-10-09,San Francisco,On Leave
+151,Wendy,Clark,49,wendy.clark@company.com,Sales,92000,2022-09-28,Seattle,On Leave
+152,Tara,Miller,28,tara.miller@company.com,Legal,122000,2017-08-29,Denver,Terminated
+153,Sam,Allen,47,sam.allen@company.com,Sales,51000,2018-01-29,New York,Terminated
+154,David,Adams,53,david.adams@company.com,Data,134000,2024-05-04,Seattle,Active
+155,Wendy,Wilson,38,wendy.wilson@company.com,Finance,111000,2022-08-08,Austin,Active
+156,Carol,Taylor,45,carol.taylor@company.com,Product,82000,2023-03-19,Austin,Active
+157,Sam,Anderson,34,sam.anderson@company.com,Legal,102000,2016-06-25,Miami,Active
+158,Hannah,Martinez,32,hannah.martinez@company.com,Sales,104000,2017-11-18,Atlanta,Active
+159,Victor,Wright,26,victor.wright@company.com,Marketing,86000,2016-07-30,Chicago,On Leave
+160,Julia,Thomas,22,julia.thomas@company.com,Marketing,81000,2017-12-19,Miami,Active
+161,Diana,Thomas,46,diana.thomas@company.com,Sales,88000,2024-03-22,Boston,Active
+162,Olivia,Garcia,57,olivia.garcia@company.com,Engineering,126000,2018-09-05,Portland,Active
+163,Emma,Walker,41,emma.walker@company.com,Product,126000,2022-04-13,Denver,Active
+164,Isla,Smith,53,isla.smith@company.com,Engineering,105000,2016-04-20,San Francisco,Active
+165,Ivan,Brown,45,ivan.brown@company.com,Legal,120000,2022-07-09,Miami,On Leave
+166,Laura,Young,48,laura.young@company.com,HR,79000,2022-05-06,San Francisco,On Leave
+167,Nina,Harris,45,nina.harris@company.com,Sales,52000,2017-06-08,Atlanta,On Leave
+168,Paul,Green,45,paul.green@company.com,Operations,62000,2021-02-08,Boston,Active
+169,Mia,Lee,35,mia.lee@company.com,Product,86000,2022-03-13,Portland,Active
+170,David,Wright,30,david.wright@company.com,Operations,71000,2023-10-29,Portland,Active
+171,Emma,Scott,35,emma.scott@company.com,Design,79000,2024-02-13,Chicago,Active
+172,Jack,Wright,39,jack.wright@company.com,Data,85000,2024-08-17,Austin,Active
+173,Liam,Lee,22,liam.lee@company.com,Engineering,94000,2019-01-07,Chicago,Terminated
+174,Uma,Johnson,25,uma.johnson@company.com,HR,59000,2016-06-03,Denver,Terminated
+175,Emma,Garcia,54,emma.garcia@company.com,Product,104000,2021-08-28,San Francisco,On Leave
+176,George,Wilson,55,george.wilson@company.com,Data,88000,2018-05-20,Atlanta,Active
+177,David,Garcia,28,david.garcia@company.com,Legal,118000,2020-07-01,Atlanta,Active
+178,Frank,Anderson,26,frank.anderson@company.com,Data,95000,2016-05-31,Seattle,Terminated
+179,Uma,Jackson,40,uma.jackson@company.com,Data,120000,2020-02-02,Miami,Terminated
+180,Beth,Lee,35,beth.lee@company.com,Marketing,91000,2019-10-28,Atlanta,Active
+181,Diana,Jackson,28,diana.jackson@company.com,Legal,138000,2018-07-04,Denver,Active
+182,Quinn,Thomas,52,quinn.thomas@company.com,HR,73000,2015-10-02,San Francisco,Active
+183,Frank,Harris,30,frank.harris@company.com,Marketing,79000,2021-03-28,New York,Terminated
+184,Julia,Robinson,48,julia.robinson@company.com,Operations,63000,2018-12-19,Denver,Active
+185,Sam,Lewis,28,sam.lewis@company.com,Sales,73000,2021-06-25,Miami,Active
+186,Jack,Hall,28,jack.hall@company.com,Product,95000,2018-12-05,Miami,Active
+187,Henry,King,36,henry.king@company.com,Sales,88000,2024-01-20,Denver,Terminated
+188,Nina,Lewis,39,nina.lewis@company.com,Design,67000,2015-04-29,Austin,Active
+189,Tara,Adams,22,tara.adams@company.com,Operations,78000,2017-01-13,Austin,Terminated
+190,Zoe,White,23,zoe.white@company.com,HR,74000,2016-01-11,Miami,Active
+191,Yara,Harris,32,yara.harris@company.com,Product,102000,2019-02-24,Seattle,Active
+192,Kevin,Lewis,31,kevin.lewis@company.com,Marketing,58000,2016-10-06,Portland,Active
+193,Frank,Moore,49,frank.moore@company.com,Product,123000,2020-06-12,Portland,On Leave
+194,Aaron,Moore,54,aaron.moore@company.com,Finance,119000,2016-04-11,Boston,On Leave
+195,Henry,Taylor,55,henry.taylor@company.com,Data,117000,2022-06-25,Seattle,Active
+196,Olivia,Jackson,22,olivia.jackson@company.com,Data,89000,2017-04-17,Seattle,Active
+197,Isla,King,42,isla.king@company.com,Sales,69000,2016-05-06,New York,On Leave
+198,Beth,Davis,56,beth.davis@company.com,HR,62000,2022-11-22,Chicago,Terminated
+199,Julia,Scott,47,julia.scott@company.com,Operations,60000,2024-08-30,New York,On Leave
+200,Bob,Martin,58,bob.martin@company.com,Marketing,76000,2019-10-25,Portland,On Leave
