@@ -31,7 +31,7 @@ services:
   
   mysql:
     image: mysql:8.0
-    command: --mysql-native-password=ON
+    command: --default-authentication-plugin=mysql_native_password
     environment:
       MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
       MYSQL_USER: ${MYSQL_USER}
@@ -46,16 +46,18 @@ services:
   
   airflow-init:
     <<: *airflow-common
-    command: >-
-      bash -c "airflow db migrate &&
-      airflow users create
-      --username ${AIRFLOW_ADMIN_USERNAME}
-      --password ${AIRFLOW_ADMIN_PASSWORD}
-      --firstname Admin
-      --lastname User
-      --role Admin
-      --email ${AIRFLOW_ADMIN_EMAIL}
-      --if-not-exists"
+    command:
+      - bash
+      - -c
+      - >-
+        airflow db migrate &&
+        airflow users create
+        --username ${AIRFLOW_ADMIN_USERNAME}
+        --password ${AIRFLOW_ADMIN_PASSWORD}
+        --firstname Admin
+        --lastname User
+        --role Admin
+        --email ${AIRFLOW_ADMIN_EMAIL}
     depends_on:
       postgres:
         condition: service_healthy
