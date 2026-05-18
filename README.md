@@ -25,3 +25,18 @@ Loads a 200-row employee dataset (CSV) into a MySQL database using an Airflow DA
 ## Screenshots
 ![DAG Success](screenshots/dag_success.png)
 ![MySQL Data](screenshots/mysql_data.png)
+
+## Limitations & Future Improvements
+
+- **Idempotency** — re-triggering the DAG inserts duplicate rows since there is no 
+  uniqueness constraint on `id`. A production pipeline would use `INSERT IGNORE` or 
+  `ON DUPLICATE KEY UPDATE` to make runs safely repeatable.
+
+- **Runtime dependency installation** — packages are installed via 
+  `_PIP_ADDITIONAL_REQUIREMENTS` on every container start. The production approach 
+  is a custom Docker image with dependencies baked in at build time.
+
+- **XCom at scale** — passing the full dataset through Airflow's metadata DB is 
+  acceptable for small files but does not scale. A production pipeline would write 
+  to object storage (S3, GCS) or a staging table and pass only a reference through 
+  XCom.
